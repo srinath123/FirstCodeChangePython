@@ -1,3 +1,3 @@
 FirstCodeChangePython
 =====================
-This repository is just to test simple standalone python code snippets to get familiar with python.
+This repository is just to test standalone python code snippets to get familiar with python.
